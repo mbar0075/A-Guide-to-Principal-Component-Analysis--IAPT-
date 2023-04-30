@@ -8,4 +8,4 @@ The repository includes: </ br>
  
    
 ## Additional Info:
-**This project was developed as an Individual Assigned Practical Task (IAPT) for the University of Malta in 2023 supervised under Doctor Kristian Guillaumier.**
+**This project was developed as an Individual Assigned Practical Task (IAPT) for the University of Malta in 2023 supervised under Dr. Kristian Guillaumier.**
