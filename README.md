@@ -11,7 +11,8 @@ The repository includes:
  
 ## Video:
 A video demonstration showcasing the developed notebook, can be
-accessed through the following link: https://youtu.be/IWYkN0AeK0o
+accessed through one of the following links: https://youtu.be/IWYkN0AeK0o </br>
+https://drive.google.com/drive/folders/1Ms7sojfVKI_BvzDhBag98KOfX34OoKwK
 
 ## Additional Info:
 **This project was developed as an Individual Assigned Practical Task (IAPT) for the University of Malta in 2023 supervised under Dr. Kristian Guillaumier.**
