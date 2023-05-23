@@ -1,4 +1,4 @@
-# A Guide to Principle Component Analysis (IAPT)
+# A Guide to Principal Component Analysis (IAPT)
  
 # Authors
 **Matthias Bartolo 0436103L**
