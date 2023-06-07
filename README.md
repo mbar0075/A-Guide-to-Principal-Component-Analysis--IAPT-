@@ -3,6 +3,11 @@
 # Authors
 **Matthias Bartolo 0436103L**
 
+## Preview:
+<p align='center'>
+  <img src="https://github.com/mbar0075/A-Guide-to-Principal-Component-Analysis--IAPT-/assets/103250564/b754f36e-b621-4c62-a12a-c2d0a72ab8b3" style="display: block; margin: 0 auto; width: 90%; height: auto;">
+</p>
+
 ## Deliverables:
 The repository includes:
 1. **Artefact** - Directory which holds the developed Artefact.
