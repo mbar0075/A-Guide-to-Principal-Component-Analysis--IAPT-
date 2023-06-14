@@ -26,9 +26,9 @@ https://github.com/mbar0075/A-Guide-to-Principal-Component-Analysis--IAPT-/asset
 
 ## Deliverables:
 The repository includes:
-1. **Artefact** - Directory which holds the developed Artefact.
-2. **Documentation** - Directory which holds all materials relating to the documentation of this project.
-3. **Video** - Directory which holds all materials relating to the creation of the video demonstration of this project
+1. [Artefact](https://github.com/mbar0075/A-Guide-to-Principal-Component-Analysis--IAPT-/tree/main/Artefact) - Directory which holds the developed Artefact.
+2. [Documentation](https://github.com/mbar0075/A-Guide-to-Principal-Component-Analysis--IAPT-/tree/main/Documentation) - Directory which holds all materials relating to the documentation of this project.
+3. [Video](https://github.com/mbar0075/A-Guide-to-Principal-Component-Analysis--IAPT-/tree/main/Video) - Directory which holds all materials relating to the creation of the video demonstration of this project
  
 ## Video:
 A video demonstration showcasing the developed notebook, can be
